@@ -1,0 +1,641 @@
+{
+    "md5": "5b7a5d01cd37b1fbc1a8ce3b78019e3a",
+    "size": 17133616,
+    "master_file_list": [
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_accessory.json",
+            "size": 128720,
+            "md5": "6e8675eb7a7088a8c48e4edc4531ca18"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_accessory_resource.json",
+            "size": 17584,
+            "md5": "ea0ab4b6f67c9ff47fdf70dd885d0df1"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_accessory__i18n.json",
+            "size": 32896,
+            "md5": "71940ddb0061539659489895671a118e"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_action_pattern.json",
+            "size": 2145152,
+            "md5": "6ec25278053632229eeb8b03747ea019"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_chat_stamp.json",
+            "size": 2112,
+            "md5": "85b8310ac58688fc0a2b9f7fb15e1123"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_dictionary__i18n.json",
+            "size": 15888,
+            "md5": "64d27e090962b2c07c95c569fe463e42"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_enemy.json",
+            "size": 575392,
+            "md5": "42b5a9a34decf31dcc01d33708d4ebc4"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_enemy_habitat_gauge.json",
+            "size": 1250784,
+            "md5": "358ae03876bf58bc5252086a0ec1d9ba"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_enemy__i18n.json",
+            "size": 632352,
+            "md5": "5f9c11b5f314893d1f3f4abc43211e44"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_equip.json",
+            "size": 68128,
+            "md5": "250a838d69bc9c85023f26806aaa00a1"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_equip_skill.json",
+            "size": 132400,
+            "md5": "c3d094fd8b58044498b658f6e386eaee"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_equip_skill__i18n.json",
+            "size": 8896,
+            "md5": "43d3ad68e9e10731589e637f6e33285a"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_equip__i18n.json",
+            "size": 96160,
+            "md5": "4ca1beddcaafea9fae9ae4d5d3731096"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_item.json",
+            "size": 69280,
+            "md5": "424b3bdaa2ab03ddd0366b465a02103b"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_item__i18n.json",
+            "size": 125152,
+            "md5": "59974c27902516a163c12424a99043f6"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_profile_object.json",
+            "size": 25120,
+            "md5": "1506312a255ad3a0b1ac3a7e4cc073b0"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_profile_object__i18n.json",
+            "size": 49568,
+            "md5": "48bbffad081e0e69cff75d4ce0b7185a"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_quest_dungeon.json",
+            "size": 2688,
+            "md5": "d331e333089ade9fd44b5a155285853a"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_quest_main.json",
+            "size": 64480,
+            "md5": "234e5af6bc4804447b7df3cf98bb0877"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_quest_map.json",
+            "size": 14208,
+            "md5": "5b5e67124a13458bb9afa1f275b44573"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_quest_map_area.json",
+            "size": 28128,
+            "md5": "dba664d83797ae113b6fcb0445a2e408"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_quest_map_area_stage.json",
+            "size": 200688,
+            "md5": "69da0f89c305bc36e18dd659372e8e6d"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_quest_map_area_stage__i18n.json",
+            "size": 115792,
+            "md5": "0c1bcfa44d8839a968b7d1a8ceef50cf"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_quest_map_area__i18n.json",
+            "size": 15568,
+            "md5": "827c6b2931af895b956056d4e13df72a"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_quest_map__i18n.json",
+            "size": 6336,
+            "md5": "128c55bae2bfa2f9109e375e15bcffc3"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_quest_material.json",
+            "size": 3024,
+            "md5": "499ed187123af3d430b1d7dd97edc5c5"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_quest_term.json",
+            "size": 22368,
+            "md5": "46e44be2c86e795a2707726554e42882"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_reinforce_board_effect.json",
+            "size": 223280,
+            "md5": "d6c2952a0dbb22af99c6489fe5f4ec68"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_reinforce_board_effect_type_text__i18n.json",
+            "size": 4352,
+            "md5": "84b29464282902a4f783f190125bd926"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_reinforce_board_graph_edge.json",
+            "size": 304192,
+            "md5": "17bd0f7d481e8f3255df5c8205f0b95c"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_reinforce_board_graph_node.json",
+            "size": 677600,
+            "md5": "bd27893cc19d2b2f123a522617c8248a"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_reinforce_board_resource.json",
+            "size": 241008,
+            "md5": "baa430730a2b8ace2862ed8247d0aa68"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_serif__i18n.json",
+            "size": 64608,
+            "md5": "5286708f5315315f00dc968f9cdd7a5b"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_skill.json",
+            "size": 3418096,
+            "md5": "2b70ac755a2fdf29f7ed2fe09ba55fd1"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_skill_effect.json",
+            "size": 62128,
+            "md5": "8021acdf792febb1585a35a992e076c9"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_skill_effect_condition.json",
+            "size": 51920,
+            "md5": "b0324efb9daed3ac16ef3fa1304f335b"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_skill_effect_condition__i18n.json",
+            "size": 57952,
+            "md5": "f38c5f19a56ba9e0b640ae4592b26ad7"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_skill_effect__i18n.json",
+            "size": 163808,
+            "md5": "ce97686a1c8009562edf87c299c75199"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_skill_fx_text__i18n.json",
+            "size": 28848,
+            "md5": "519481e6485b9e1f15f6cd1d8ce76897"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_skill_text__i18n.json",
+            "size": 16,
+            "md5": "e04c7a200e02894dd58aafa1f08e3d8f"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_story.json",
+            "size": 96992,
+            "md5": "695dccf46c4460f66f6caee6e9069f10"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_story_group.json",
+            "size": 6112,
+            "md5": "a20f3c5f3bd1e3a0fe0a893db252a783"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_story_group__i18n.json",
+            "size": 7920,
+            "md5": "1f1599d0f4fa4dd6f6a4590121b52234"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_story__i18n.json",
+            "size": 31808,
+            "md5": "5769d524a7c77eaf9d45bcae4665b250"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_text.json",
+            "size": 2512,
+            "md5": "1bb9506a7499c6e6a5a723de3d6ba4e5"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_text__i18n.json",
+            "size": 7280,
+            "md5": "e5293e7786d6bc8eb18457d648ec38ca"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_tips_text.json",
+            "size": 336,
+            "md5": "4b62580ebc43791e372c7ba8804cad91"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_tips_text__i18n.json",
+            "size": 1232,
+            "md5": "24dc414da055882d203cbf4991bbedc4"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_trade.json",
+            "size": 1264,
+            "md5": "3e0ee7eddc7eeca6465b44cae3e84b7e"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_trade_group.json",
+            "size": 12720,
+            "md5": "aab9ec87e1484f3ae30a989c5b1d3077"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_trade_group__i18n.json",
+            "size": 9616,
+            "md5": "76146bb6100c8a0f295a7e610b6aede4"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_trade_object.json",
+            "size": 249360,
+            "md5": "efeb6fcf75d5ebf79ae2323332f88eca"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_trigger.json",
+            "size": 7328,
+            "md5": "c2b0d96882460b0bac8d0237e737650f"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_unit.json",
+            "size": 75760,
+            "md5": "ee6b9733cfffd15f1fa81bf1f9e813fa"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_unit_accessory_pattern.json",
+            "size": 178304,
+            "md5": "509faee5e2d1c3635eaf699d8d96fa9e"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_unit_flavor.json",
+            "size": 29936,
+            "md5": "106d4263632611c95517fb46b9c63a00"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_unit_flavor__i18n.json",
+            "size": 431728,
+            "md5": "9912cc987b78212f08746b6c421fde72"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_unit_reinforce_board.json",
+            "size": 28048,
+            "md5": "5590a30f6b423ee6a51b969e2d1aa201"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_unit_skill.json",
+            "size": 68688,
+            "md5": "3447f163eb718eb8fe42bf7bd9716fc6"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_unit_skill__i18n.json",
+            "size": 40512,
+            "md5": "7974b3c173352ecb97f4241f8adb7d99"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_unit__i18n.json",
+            "size": 21776,
+            "md5": "d1a7ff559aaa59b4578df012b0a9f7a2"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_voice.json",
+            "size": 1131280,
+            "md5": "448836a2c1e9b39e28972c7f3ea2e6e8"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/m_voice__i18n.json",
+            "size": 859408,
+            "md5": "49b320f31ac401ee0ab1e8ae402cf028"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/v_battle_drop.json",
+            "size": 372016,
+            "md5": "121208f62b80570df393fa474485e7b1"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/v_battle_enemy.json",
+            "size": 1352848,
+            "md5": "65b79135159168695f698bd1a2d12ac1"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/v_stage_clear_bonus.json",
+            "size": 256144,
+            "md5": "a8aec290aab3d8db1579164ccf9a00b7"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/v_unit_awake_resource.json",
+            "size": 27968,
+            "md5": "3347a0a078ef443202c3af4199e7b2ff"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/v_trade_item.json",
+            "size": 40512,
+            "md5": "dd158cf97459c8f6908c7597885861b9"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/v_arena_league_bonus.json",
+            "size": 26576,
+            "md5": "74c5e56792dbe18f53284159313efc82"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/v_arena_ranking_bonus.json",
+            "size": 2176,
+            "md5": "3a6c50ad52cac979134f73fca10e8d52"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/v_story_bonus.json",
+            "size": 32928,
+            "md5": "bd6f78dc68af43271a3a0ee248d01708"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/v_quest_map_area_stage.json",
+            "size": 93632,
+            "md5": "a682d2a6b68d3c05626a9097ab7c840f"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/v_unit_intimacy_bonus.json",
+            "size": 208592,
+            "md5": "a014db3d22c49b68a360b8f63dde2664"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/v_raid_ranking_bonus.json",
+            "size": 6160,
+            "md5": "322b9cf405c852670ee0c00d5a3ffc24"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/v_score_attack_ranking_bonus.json",
+            "size": 3328,
+            "md5": "cbf33b6db4da90a6891ea68315845f22"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/v_unit_reinforce_board_awake_item_total.json",
+            "size": 6400,
+            "md5": "1866e938b599abe6c1e32b4dec7efc92"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_accessory_exp.json",
+            "size": 16,
+            "md5": "e04c7a200e02894dd58aafa1f08e3d8f"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_accessory_rare.json",
+            "size": 864,
+            "md5": "7bea8ffe19f5087a0c1864a06e033ec1"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_address.json",
+            "size": 4032,
+            "md5": "02f6a0376d80defa12487680a1da9f20"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_background.json",
+            "size": 5648,
+            "md5": "0a8a18d31b814fa2590e4b768e845ac3"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_background_battle.json",
+            "size": 7440,
+            "md5": "563bbb7dd60adf46bd739f2c238aff16"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_battle_fact_attribute.json",
+            "size": 1200,
+            "md5": "6c3879e0c6becd13a8c4d31abf3821e2"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_battle_fact_chain.json",
+            "size": 2112,
+            "md5": "c16bbbe3330740079968b28785134f32"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_battle_fact_chain_attenuation.json",
+            "size": 1824,
+            "md5": "2eb0fd8ca9ad61b820e6e49585091632"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_battle_fact_panel.json",
+            "size": 400,
+            "md5": "2cf1d5ddd3b9df1125e7a844af8274fb"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_battle_firewall.json",
+            "size": 16,
+            "md5": "e04c7a200e02894dd58aafa1f08e3d8f"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_battle_firewall_deck.json",
+            "size": 16,
+            "md5": "e04c7a200e02894dd58aafa1f08e3d8f"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_battle_firewall_panel.json",
+            "size": 16,
+            "md5": "e04c7a200e02894dd58aafa1f08e3d8f"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_battle_input_result.json",
+            "size": 272,
+            "md5": "b91d4028122bb36e4af93dfe0846af3d"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_battle_item_fact_chain_gauge.json",
+            "size": 512,
+            "md5": "185c4355c4e0e782ca27ae9219f72338"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_battle_item_skill.json",
+            "size": 1392,
+            "md5": "35980a9e0f4c5c44942d1d05c3a1fde8"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_battle_item_skill__i18n.json",
+            "size": 1120,
+            "md5": "aca4cda3d79761de4ce2c504d43450e4"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_battle_skill_target_select.json",
+            "size": 16,
+            "md5": "e04c7a200e02894dd58aafa1f08e3d8f"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_battle_skill_target_select__i18n.json",
+            "size": 16,
+            "md5": "e04c7a200e02894dd58aafa1f08e3d8f"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_bgm.json",
+            "size": 4208,
+            "md5": "ee3d30751719b9108c7eb7846ad28242"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_chat_channel.json",
+            "size": 37920,
+            "md5": "096c44e7c94f0faf588d907239a5dbbd"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_chat_channel__i18n.json",
+            "size": 23088,
+            "md5": "a37b3832c0ce72704c68a07799a6a98f"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_chat_system_message__i18n.json",
+            "size": 3200,
+            "md5": "cdb826ce5ec9c1119365d56ad739586f"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_const.json",
+            "size": 15152,
+            "md5": "24474ee06e800c6a08e89bd4e421194a"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_equip_exp.json",
+            "size": 5200,
+            "md5": "aacb045a6379d7f65f7f19a4ad57ea03"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_equip_rare.json",
+            "size": 688,
+            "md5": "99c0de3ecb42c3d5e3edef8953f841eb"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_equip_skill_power.json",
+            "size": 2288,
+            "md5": "1dadd1cacea04a246096b5a0cbaaf649"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_filter_sort.json",
+            "size": 10752,
+            "md5": "5d29923efd3462af8393d809971dca64"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_filter_sort__i18n.json",
+            "size": 11776,
+            "md5": "687f98fbbb33bd74d1266810a3699379"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_guild_bless.json",
+            "size": 6928,
+            "md5": "12adb6cb7a84f71246fc7cd47ad0c3ed"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_guild_bless_exp.json",
+            "size": 1952,
+            "md5": "4b0430a9cbe1de48cacf0a8927b93db3"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_guild_exp.json",
+            "size": 1280,
+            "md5": "cd3a465297ea4d10e29ed7c5b95cd0cf"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_guild_facility_exp.json",
+            "size": 6448,
+            "md5": "ec201c09da3925df14ad5f0f5845fbf9"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_guild_facility__i18n.json",
+            "size": 240,
+            "md5": "9cfd133783a131ca1b32bbfc91da7512"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_guild_tribute.json",
+            "size": 128,
+            "md5": "63c50a70316a30cac9b84bca2e135766"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_guild_tribute_object.json",
+            "size": 608,
+            "md5": "c35c2fa3544bc69ae444850af4fb967d"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_honor.json",
+            "size": 8080,
+            "md5": "1310bff0f4b15c665718ae7b18db6e8e"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_honor__i18n.json",
+            "size": 13168,
+            "md5": "9e44e4785fb80a8dadc7d8461d89a257"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_how_to_play.json",
+            "size": 4368,
+            "md5": "4ce85eeaffd38659ee79f7949860076e"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_player_exp.json",
+            "size": 19760,
+            "md5": "8ccde16ffde23107de8f6bf4fa267dde"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_shop_pass_effect_refund_exp.json",
+            "size": 21216,
+            "md5": "e0a890479bf8a83683e288aa04feaba2"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_shop_stamina.json",
+            "size": 2560,
+            "md5": "a4a635bb79294f3247700362e4cae90f"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_story_unit_key_group__i18n.json",
+            "size": 336,
+            "md5": "16766e56413b6a925b80ae9f1ee1adaf"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_trade_object_randombox.json",
+            "size": 1888,
+            "md5": "cc27da7e36cc17c1ad217d907be7d26b"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_unit_awake.json",
+            "size": 432,
+            "md5": "ef278383bc19475e15504a116dc2ca11"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_unit_awake_resource.json",
+            "size": 528,
+            "md5": "b306f057d6f071d21108b88e05589db3"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_unit_exp.json",
+            "size": 10704,
+            "md5": "2b2ee65199890f4a3dd92aafdf8fd9fd"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_unit_intimacy_exp.json",
+            "size": 1056,
+            "md5": "99194808232126e890896694539364e5"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_unit_skill_exp.json",
+            "size": 10816,
+            "md5": "838a066f6904736b9ed4a03a7b4c04cd"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_url.json",
+            "size": 1952,
+            "md5": "88e250d3ca6a8cd60970ff0df504af44"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_url__i18n.json",
+            "size": 2096,
+            "md5": "f8f156c33c80b687d05d7666fe2ff157"
+        },
+        {
+            "url": "data/zh_TW/5b7a5d01cd37b1fbc1a8ce3b78019e3a/c_voice_prefix.json",
+            "size": 16,
+            "md5": "e04c7a200e02894dd58aafa1f08e3d8f"
+        }
+    ]
+}
